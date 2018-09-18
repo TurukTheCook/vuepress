@@ -1,7 +1,7 @@
 module.exports = {
   title: "The Docs",
-  base: "/docs/",
-  dest: "dist/docs",
+  base: "/",
+  dest: "dist/",
   themeConfig: {
     // sidebar: "auto",
     // displayAllHeaders: true,   // Everything shows up but it is ugly
