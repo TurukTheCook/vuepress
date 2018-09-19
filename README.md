@@ -107,3 +107,6 @@ yarn docs:dev
 ```bash
 yarn docs:build
 ```
+
+Pour le markdown regarder aussi
+[Markdown Extensions](https://vuepress.vuejs.org/guide/markdown.html#header-anchors)
